@@ -86,7 +86,7 @@
     color: red;
   }
 
-  .home-content button {
+  .home-content a {
     border-style: none;
     background-color: red;
     color: white;
